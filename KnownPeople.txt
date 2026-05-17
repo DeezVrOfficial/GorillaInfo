@@ -87,6 +87,7 @@
   { "Key": "C41A1A9055417A27", "Value": "Ariel" },
   { "Key": "9ABD0C174289F58E", "Value": "baggZ" },
   { "Key": "C9027C8A184048B", "Value": "Owner" },
+  { "Key": "8D67A52831F66360", "Value": "Friend" },
   { "Key": "FF912EF4590C7E35", "Value": "GOONBOY" },
   { "Key": "5D5B4978C1300B24", "Value": "axo" },
   { "Key": "8E25CAA731003004", "Value": "axo" },
