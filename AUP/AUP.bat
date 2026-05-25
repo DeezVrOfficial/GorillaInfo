@@ -4,7 +4,7 @@ set "PROCESSNAME=Gorilla Tag"
 set "POSSIBLELOC1=C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins"
 set "POSSIBLELOC2=C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\plugins"
 set "POSSIBLELOC3=C:\Program Files\Meta Horizon\Software\Software\another-axiom-gorilla-tag\BepInEx\plugins"
-set "COMPANY=DangThatsAShitLoadOfInfo"
+set "COMPANY=AceUtilsPad"
 
 :check
 tasklist | find /I "%PROCESS%" >nul 2>&1
