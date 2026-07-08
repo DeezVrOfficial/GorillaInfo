@@ -1,4 +1,4 @@
-Deez;C9027C8A184048B;
+Deez;C9027C8A184048B;https://raw.githubusercontent.com/DeezVrOfficial/GorillaInfo/main/Deez.png
 HanSolo;A48744B93D9A3596;https://raw-images.zlothy.uk/gouda.png
 GorillaN0t;A2DCB607262258EB;https://raw-images.zlothy.uk/n0t.png
 TLine;FD6CE5F599154993;https://raw-images.zlothy.uk/TLine.png
